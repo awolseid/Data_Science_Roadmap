@@ -1,4 +1,4 @@
-# Roadmap for Learning Data Science
+# Basics of Data Science
 
 1. An Introduction to Python Programming
     - Variables, Data Types, Operators
