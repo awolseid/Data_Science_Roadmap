@@ -1,6 +1,6 @@
 # Roadmap for Learning Data Science
 
-- 1. Fundamentals of Python Programming
+1. An Introduction to Python Programming
     - Variables, Data Types, Operators
     - Control Structures (if-else, loops)
     - Functions and Modules
@@ -9,7 +9,7 @@
         - Pandas: DataFrames, Series, Data Manipulation (filtering, grouping, merging)
         - NumPy: Array, Array Operations, Math Functions, Broadcasting
         - Matplotlib and Seaborn: Visualizations
-- 2. Machine Learning
+2. Machine Learning
     - Exploratory Data Analysis
         - Data Cleaning: Missing Values, Duplicates, ...
         - Data Transformations: normalization, onehot-encoding, standardization
@@ -24,7 +24,7 @@
     - Model Evaluation and Improvement
         - Hyperparameter Tuning: Grid, Random Search
         - Cross-Validation: k-Fold, Stratified
-- 3. Deep Learning
+3. Introduction to Deep Learning
     - Frameworks: PyTorch, TensorFlow, Keras
         - Tensor Basics, Gradient Computation, Forward and Backward propagations, Loss Functions, ...
         - Training and Testing Loops, Data Loading and Preprocessing, Dataset Transforms, Activation Functions, ...
@@ -33,4 +33,4 @@
         - Making Predictions, 
         - Saving and Loading Models
     - Devise-Agnostic Codes, Going Modular 
-- 4. End-to-End Project: Problem Definition, Model Development and Deployment
+4. End-to-End Project: Problem Definition, Model Development and Deployment
