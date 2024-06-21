@@ -18,6 +18,8 @@
         - Linear Regression: Simple, Multiple, ...
         - Classification: Logistic, k-Nearest Neighbors, SVM
         - Ensemble Methods: RF, GB, XGBoost, LightGBM
+        - Multi-Class and Multi-Label Classifications
+        - Survival Models
     - Unsupervised Learning
         - Clustering: k-Means, Heirarchical, ...
         - Dimensionality Reduction: PCA, t-SNE
