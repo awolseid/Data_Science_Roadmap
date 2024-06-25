@@ -1,0 +1,627 @@
+ID,Sex,Age,BMI,EducLevel,Mar_Stat,Residence,TB_History,Complication,Comorbidity,Smoking,Alcohol,HIV,Received_ART,CD4_Count,Death
+458,Female,58,21.529091,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+3,Female,22,30.818541,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+132,Female,35,14.692378,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+592,Male,43,19.151192,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+170,Female,47,13.319459,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+33,Male,42,18.685122,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+565,Male,27,20.177149,Grade 8-12,Never married,Urban,Yes,No,No,No,1,Negative,No,,Live
+594,Female,35,26.57313,Grade 1-8,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,,Live
+24,Female,25,16.014544,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+194,Female,27,17.301039,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,200,Live
+222,Female,24,16.02564,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+233,Male,17,14.666667,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,385,Live
+164,Female,40,19.377163,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+25,Female,18,20.3125,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+414,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+638,Male,45,16.653061,Above grade 12,Married,Urban,Yes,Yes,Yes,No,2,Negative,No,,Live
+18,Female,22,16.227839,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+345,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+124,Male,18,16.40625,Grade 8-12,Never married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+433,Female,18,13.756693,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+589,Male,17,14.666667,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,385,Live
+60,Male,42,18.685122,Above grade 12,Married,Urban,No,No,Yes,No,2,Positive,Yes,450,Live
+259,Male,40,19.53125,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+133,Female,25,15.67347,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+599,Male,23,17.056177,Grade 1-8,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+402,Female,40,17.941816,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+600,Male,27,23.233456,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+89,Female,25,16.613266,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+527,Female,35,18.365473,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+125,Male,30,17.17532,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+130,Female,23,21.777779,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+29,Male,48,18.069727,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+122,Male,29,17.928215,Grade 1-8,Never married,Urban,No,No,No,Yes,1,Negative,No,,Live
+555,Female,25,16.896235,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+239,Male,48,19.377163,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+564,Female,22,18.611496,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+240,Male,23,15.605006,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+145,Male,29,15.818698,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+115,Female,21,19.111111,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+579,Male,35,16.32653,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+135,Male,20,21.545092,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+163,Female,19,21.829952,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+615,Male,40,19.53125,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+214,Female,22,18.903591,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+290,Female,32,22.12225,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+234,Female,45,13.756693,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+175,Male,23,22.499638,Above grade 12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+103,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+101,Male,20,14.833985,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+524,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+181,Male,40,17.959183,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+275,Female,40,14.515895,Grade 8-12,Never married,Urban,No,No,Yes,No,2,Positive,No,,Live
+63,Female,19,14.420766,Above grade 12,Never married,Urban,No,Yes,No,No,2,Negative,No,,Live
+51,Female,28,13.149244,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+93,Male,48,14.693877,Grade 8-12,Never married,Urban,No,No,Yes,No,2,Positive,Yes,298,Live
+92,Male,21,12.110726,Grade 8-12,Never married,Rural,Yes,Yes,No,No,2,Negative,No,,Live
+157,Female,25,14.757969,Grade 1-8,Married,Urban,No,No,Yes,No,1,Positive,Yes,305,Live
+86,Female,24,12.855831,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+85,Male,24,15.622619,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+479,Male,29,17.577068,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+438,Male,40,15.548945,Grade 1-8,Married,Urban,No,No,Yes,No,2,Negative,No,,Live
+53,Male,27,20.177149,Grade 8-12,Never married,Urban,Yes,No,No,No,1,Negative,No,,Live
+236,Male,43,19.151192,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+220,Female,21,18.467636,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+533,Female,40,13.840831,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,300,Live
+457,Male,47,20.987654,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+74,Male,25,19.195303,Grade 1-8,"Other (divorced, widowed)",Urban,No,No,Yes,No,2,Positive,Yes,300,Live
+622,Male,44,16.049383,Grade 1-8,Never married,Urban,Yes,No,No,Yes,2,Positive,Yes,250,Live
+97,Female,24,23.337685,Grade 8-12,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+618,Female,39,23.529411,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+35,Male,40,15.548945,Grade 1-8,Married,Urban,No,No,Yes,No,2,Negative,No,,Live
+446,Female,25,16.896235,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+140,Male,28,18.285715,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+144,Female,20,18.49716,Above grade 12,Married,Urban,Yes,No,No,Yes,1,Negative,No,,Live
+23,Female,28,26.5625,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+19,Male,25,14.515895,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,450,Live
+413,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+627,Male,33,24.857954,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+189,Male,22,17.360441,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+191,Female,60,17.578125,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+64,Female,19,14.09846,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+544,Male,38,19.045073,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+73,Female,19,17.647058,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+32,Male,38,19.045073,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+426,Female,28,26.5625,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+338,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+45,Male,40,12.940286,Above grade 12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+476,Male,46,16.415308,Grade 1-8,Married,Rural,No,No,Yes,No,2,Negative,No,,Live
+401,Male,42,19.591837,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+545,Male,42,18.685122,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+198,Female,35,17.630854,Grade 1-8,Never married,Urban,Yes,No,No,No,1,Negative,No,,Live
+422,Male,25,14.515895,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,450,Live
+190,Female,30,16.423651,Grade 1-8,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,663,Live
+238,Female,35,26.57313,Grade 1-8,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,,Live
+15,Female,35,18.365473,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+441,Female,46,35.055634,Grade 8-12,Never married,Urban,No,Yes,No,No,2,Negative,No,,Live
+522,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+593,Male,21,14.863258,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+488,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+100,Male,18,19.571682,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+554,Female,38,16.866251,Above grade 12,Married,Urban,No,No,Yes,No,2,Positive,Yes,300,Live
+537,Female,18,20.3125,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+155,Female,25,16.003658,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+551,Male,55,15.24169,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+114,Male,56,15.346939,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+493,Female,35,18.365473,Above grade 12,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+586,Female,29,21.227888,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+1,Female,20,16.613266,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+66,Male,20,21.971336,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+61,Female,29,19.486961,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+14,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+416,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+452,Female,24,18.178671,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+254,Male,37,11.832623,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+58,Female,26,16.35931,Grade 1-8,Married,Urban,No,No,Yes,No,2,Positive,Yes,41,Live
+461,Female,35,14.692378,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+624,Male,35,20.752985,Grade 1-8,Married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+174,Female,32,16.444593,Above grade 12,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,134,Live
+561,Female,24,18.178671,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+623,Male,35,15.047365,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,2,Positive,Yes,186,Live
+487,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+55,Female,35,15.059688,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+94,Male,29,17.990152,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+467,Female,35,19.53125,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+296,Female,28,20.519135,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+16,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+619,Male,28,15.591466,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+95,Male,45,15.021631,Grade 8-12,Married,Rural,Yes,Yes,Yes,No,2,Positive,Yes,203,Live
+601,Male,32,15.241579,Grade 1-8,Married,Rural,Yes,Yes,No,No,2,Negative,No,,Live
+146,Female,23,16.528925,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+173,Female,30,24.464602,Grade 1-8,Never married,Rural,Yes,No,No,Yes,1,Negative,No,,Live
+583,Male,40,20.452885,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+7,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+420,Female,24,22.600264,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,500,Live
+419,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+162,Female,20,21.755468,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+614,Female,26,21.875,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+52,Female,22,18.611496,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+450,Female,23,14.586104,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+418,Female,35,18.365473,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+127,Female,19,19.140625,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+56,Female,26,14.325068,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+494,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+320,Male,24,16.528925,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+630,Female,37,20.576132,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+485,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+178,Female,29,22.481329,Grade 1-8,Never married,Rural,No,Yes,No,No,2,Negative,No,,Live
+350,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+302,Female,56,18.710949,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+13,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+294,Female,20,20.079601,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+293,Male,50,17.006804,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+563,Female,28,13.149244,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+603,Female,35,18.666666,Grade 1-8,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,138,Live
+185,Female,22,13.154509,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+199,Female,29,29.7442,Grade 1-8,Married,Urban,Yes,No,No,Yes,1,Negative,No,,Live
+21,Female,40,13.840831,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,300,Live
+604,Female,24,18.066168,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+286,Female,45,18.929152,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+477,Male,80,17.283951,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+464,Male,20,21.545092,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+283,Female,28,18.132017,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+272,Male,23,13.013087,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+271,Male,33,24.857954,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+171,Female,22,18.73049,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+207,Female,33,15.77683,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,266,Live
+340,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+473,Female,20,18.49716,Above grade 12,Married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+215,Female,22,18.82711,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+46,Female,20,16.135393,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+227,Male,40,20.452885,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+108,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+78,Male,27,16.613266,Grade 8-12,Never married,Urban,Yes,No,No,No,1,Negative,No,,Live
+268,Male,35,20.752985,Grade 1-8,Married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+628,Male,23,13.013087,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+421,Female,22,16.227839,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+12,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+210,Female,24,15.203814,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+536,Female,25,16.014544,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+223,Male,35,16.32653,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+273,Female,39,24.034611,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+4,Female,38,25.099501,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+67,Female,25,17.689789,Grade 1-8,Never married,Urban,Yes,Yes,No,No,2,Negative,Yes,,Live
+435,Male,38,19.045073,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+257,Male,55,16.757294,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+329,Male,46,16.415308,Grade 1-8,Married,Rural,No,No,No,No,2,Negative,No,,Live
+519,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+326,Female,21,18.442545,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+242,Female,40,17.941816,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+129,Female,58,21.529091,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+186,Female,27,13.984008,Grade 1-8,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+248,Female,24,18.066168,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+247,Female,35,18.666666,Grade 1-8,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,138,Live
+246,Male,38,13.520823,Grade 8-12,Never married,Rural,Yes,No,No,Yes,1,Negative,No,,Live
+525,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+142,Female,38,15.794307,Above grade 12,Married,Rural,No,No,No,No,1,Negative,No,,Live
+404,Male,27,23.233456,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+87,Female,22,16.847469,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+241,Male,42,19.591837,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+139,Female,27,13.926004,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+205,Female,20,15.755751,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,2,Negative,No,,Live
+339,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+427,Female,25,16.014544,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+453,Female,30,12.855831,Grade 8-12,Never married,Rural,Yes,No,No,No,1,Negative,No,,Live
+577,Female,25,14.4795,Grade 8-12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+468,Female,27,13.926004,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+26,Female,25,15.555555,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+547,Male,40,15.548945,Grade 1-8,Married,Urban,No,No,Yes,No,2,Negative,No,,Live
+138,Female,35,19.53125,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+298,Male,26,15.794307,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+39,Male,55,15.24169,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+556,Female,33,19.909973,Grade 1-8,Married,Rural,No,No,No,No,2,Negative,No,,Live
+543,Female,26,16.003658,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+179,Female,42,20.202021,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+460,Female,18,17.419073,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+284,Male,35,17.928215,Above grade 12,Never married,Urban,No,No,Yes,No,2,Positive,Yes,305,Live
+598,Female,40,17.941816,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+548,Male,26,17.96875,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+209,Female,29,16.436554,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+486,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,Yes,1,Negative,No,,Live
+472,Female,30,18.49716,Above grade 12,Married,Urban,No,No,No,Yes,1,Negative,No,,Live
+117,Female,37,17.578125,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+188,Female,30,16.852522,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+341,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+258,Female,26,21.875,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+28,Female,30,15.555555,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+192,Female,34,19.17458,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+557,Male,40,12.940286,Above grade 12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+20,Male,28,15.346939,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+343,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+166,Female,23,17.360441,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+195,Male,40,20.549887,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+448,Male,40,12.940286,Above grade 12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+201,Female,20,16.937033,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+147,Female,17,28.999308,Above grade 12,Married,Urban,Yes,Yes,Yes,No,2,Negative,No,,Live
+429,Female,25,15.555555,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+288,Female,22,13.502565,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+152,Female,40,18.591036,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+17,Female,24,22.600264,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,500,Live
+442,Male,55,15.24169,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+204,Male,37,12.855831,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+581,Male,33,23.951227,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+440,Male,27,13.427203,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+153,Female,30,20.829996,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+432,Male,48,18.069727,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+102,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+231,Female,30,21.048048,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+277,Female,20,17.898024,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+229,Male,35,20.3125,Above grade 12,Never married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+161,Male,61,21.224489,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+529,Female,24,22.600264,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,500,Live
+226,Male,29,16.59804,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+119,Female,30,17.056177,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+633,Female,20,17.898024,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+106,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+42,Female,38,16.866251,Above grade 12,Married,Urban,No,No,Yes,No,2,Positive,Yes,300,Live
+289,Female,37,14.515895,Grade 8-12,Married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,200,Live
+444,Female,22,15.625,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+478,Female,22,13.560158,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+218,Male,25,17.283951,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+534,Female,30,16.955017,Grade 8-12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,303,Live
+154,Female,40,18.178671,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+332,Male,29,17.577068,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+261,Male,32,18.929152,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+626,Male,48,19.377163,Above grade 12,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,264,Live
+489,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+562,Female,30,12.855831,Grade 8-12,Never married,Rural,Yes,No,No,No,1,Negative,No,,Live
+211,Male,25,19.817677,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+607,Male,48,15.389351,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+407,Female,35,18.666666,Grade 1-8,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,138,Live
+602,Male,38,13.520823,Grade 8-12,Never married,Rural,Yes,No,No,Yes,1,Negative,No,,Live
+336,Male,38,14.527376,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+408,Female,24,18.066168,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+346,Female,35,18.365473,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+282,Male,45,16.653061,Above grade 12,Married,Urban,Yes,Yes,Yes,No,2,Negative,No,,Live
+319,Female,16,14.381986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+265,Male,26,18.645344,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+424,Female,40,13.840831,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,300,Live
+466,Male,28,18.556774,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+128,Male,47,20.987654,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+69,Female,20,20.93664,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+76,Female,29,14.821342,Grade 1-8,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+148,Female,32,16.528925,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+112,Male,22,20.545694,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+349,Female,33,25.593737,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+221,Female,25,14.4795,Grade 8-12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+105,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+462,Female,25,15.67347,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+439,Male,26,17.96875,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+454,Female,28,13.149244,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+526,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+8,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+631,Female,40,14.515895,Grade 8-12,Never married,Urban,No,No,Yes,No,2,Positive,No,,Live
+455,Female,22,18.611496,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+612,Male,39,19.379198,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+47,Female,23,14.586104,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+156,Male,32,17.941816,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+300,Female,21,18.13122,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+274,Female,37,20.576132,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+79,Female,60,28.761869,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+436,Male,42,18.685122,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+180,Male,40,18.166204,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+538,Female,25,15.555555,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+566,Female,30,24.998903,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+596,Male,23,15.605006,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+116,Female,28,17.313019,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+520,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+318,Male,25,17.99308,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+81,Male,37,19.151585,Grade 8-12,Never married,Urban,Yes,No,No,Yes,1,Negative,No,,Live
+131,Female,18,17.419073,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+542,Female,18,13.756693,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+415,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+434,Female,26,16.003658,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+137,Male,28,18.556774,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+325,Male,27,17.592592,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+431,Female,30,15.555555,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+299,Female,21,20,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+143,Female,30,18.49716,Above grade 12,Married,Urban,No,No,No,Yes,1,Negative,No,,Live
+323,Female,30,17.527817,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+496,Female,33,25.593737,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+168,Male,43,15.755751,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+183,Female,21,21.227888,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+217,Female,25,22.0741,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+40,Female,22,17.481791,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+456,Female,19,19.140625,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+184,Female,30,19.024971,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+84,Male,65,19.834711,Grade 1-8,Married,Urban,No,No,No,Yes,2,Negative,No,,Live
+588,Female,26,18.778345,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+417,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+459,Female,23,21.777779,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+297,Male,35,16.955017,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+41,Female,22,15.625,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+159,Male,27,20.077335,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+412,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+193,Female,22,18.424036,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+136,Male,31,17.632652,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+280,Female,20,14.342572,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+75,Female,25,18.73049,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+584,Male,46,21.453573,Grade 1-8,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,145,Live
+281,Female,22,16.436554,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+606,Male,35,20.68515,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+437,Female,27,17.102915,Above grade 12,"Other (divorced, widowed)",Urban,No,No,No,No,2,Negative,No,,Live
+590,Female,45,13.756693,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+541,Male,48,18.069727,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+253,Male,40,19.379198,Grade 1-8,Married,Urban,Yes,No,No,No,1,Negative,No,,Live
+276,Male,22,16.706205,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+77,Male,48,20.244898,Above grade 12,Married,Urban,Yes,No,No,No,1,Negative,No,,Live
+406,Male,38,13.520823,Grade 8-12,Never married,Rural,Yes,No,No,Yes,1,Negative,No,,Live
+113,Female,20,19.562956,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+72,Male,28,18.717546,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+333,Male,38,23.148148,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+237,Male,21,14.863258,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+518,Male,70,17.040329,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+443,Female,22,17.481791,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+620,Male,43,25.711662,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+335,Female,38,13.669956,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+403,Male,23,17.056177,Grade 1-8,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+250,Male,35,20.68515,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+27,Male,23,16.262976,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+285,Male,36,17.99308,Above grade 12,Never married,Urban,No,No,Yes,No,2,Negative,No,,Live
+104,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+150,Male,29,15.418265,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+553,Female,22,15.625,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+449,Female,20,16.135393,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+151,Female,21,14.701137,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+11,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+287,Male,29,21.513859,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+535,Female,28,26.5625,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+68,Female,34,24.913494,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+278,Female,35,14.453125,Grade 1-8,Married,Urban,Yes,No,Yes,Yes,1,Positive,Yes,134,Live
+616,Female,24,18.025957,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+213,Male,26,17.783249,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+202,Male,45,19.84127,Grade 8-12,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+206,Female,29,18.132017,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+134,Female,35,17.995241,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+634,Female,35,14.453125,Grade 1-8,Married,Urban,Yes,No,Yes,Yes,1,Positive,Yes,134,Live
+328,Male,33,21.383942,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+203,Female,30,22.948116,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+636,Female,20,14.342572,Grade 1-8,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+523,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+580,Female,33,19.607157,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+216,Female,18,17.96875,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+635,Female,23,11.428572,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+225,Male,33,23.951227,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+617,Male,32,18.929152,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+36,Male,26,17.96875,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+445,Female,38,16.866251,Above grade 12,Married,Urban,No,No,Yes,No,2,Positive,Yes,300,Live
+471,Female,38,15.794307,Above grade 12,Married,Rural,No,No,No,No,1,Negative,No,,Live
+262,Female,39,23.529411,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+611,Male,57,21.258503,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+342,Male,30,17.998163,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+324,Male,30,17.301039,Grade 1-8,Married,Urban,No,No,Yes,No,2,Positive,Yes,400,Live
+411,Female,28,24.973986,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+267,Male,35,15.047365,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,2,Positive,Yes,186,Live
+251,Male,48,15.389351,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+99,Female,18,16.184275,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+321,Female,35,16.528925,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+492,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+322,Female,25,11.71875,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+491,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+141,Male,46,16.186842,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+469,Male,28,18.285715,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+552,Female,22,17.481791,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+348,Female,22,16.974653,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+34,Female,27,17.102915,Above grade 12,"Other (divorced, widowed)",Urban,No,No,No,No,2,Negative,No,,Live
+10,Female,55,19.723866,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+57,Female,26,19.555555,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+224,Female,33,19.607157,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+5,Female,20,18.359375,Grade 8-12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+347,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+475,Male,33,21.383942,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+197,Female,19,17.313019,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+176,Female,18,23.233456,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+62,Female,19,19.103939,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+196,Female,26,14.568158,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+167,Female,25,15.817291,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+111,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+399,Male,48,19.377163,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+31,Female,26,16.003658,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+621,Male,26,18.645344,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+98,Male,34,16.141529,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+71,Male,23,18.75,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+270,Male,48,19.377163,Above grade 12,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,264,Live
+632,Male,22,16.706205,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+470,Male,46,16.186842,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+260,Female,24,18.025957,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+120,Female,31,8.1165457,Grade 1-8,Never married,Urban,Yes,No,No,No,1,Negative,No,,Live
+451,Female,30,20.504934,Grade 8-12,Married,Urban,Yes,No,Yes,Yes,1,Positive,Yes,305,Live
+625,Female,25,21.367521,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+158,Male,24,15.426997,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+264,Male,43,25.711662,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+637,Female,22,16.436554,Above grade 12,Never married,Rural,No,No,No,No,2,Negative,No,,Live
+425,Female,30,16.955017,Grade 8-12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,303,Live
+43,Female,25,16.896235,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+208,Female,25,21.71925,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,Yes,No,2,Positive,Yes,100,Live
+44,Female,33,19.909973,Grade 1-8,Married,Rural,No,No,No,No,2,Negative,No,,Live
+597,Male,42,19.591837,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+54,Female,30,24.998903,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+243,Male,23,17.056177,Grade 1-8,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+609,Male,40,19.379198,Grade 1-8,Married,Urban,Yes,No,No,No,1,Negative,No,,Live
+528,Male,36,19.53125,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+595,Male,48,19.377163,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+549,Male,27,13.427203,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+65,Female,27,13.223141,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+582,Male,29,16.59804,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+121,Female,28,13.671875,Grade 1-8,Married,Urban,No,Yes,No,No,2,Negative,No,,Live
+59,Male,45,23.624447,Grade 1-8,Married,Urban,Yes,No,Yes,No,2,Negative,No,,Live
+410,Female,15,16.528925,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+558,Female,20,16.135393,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+585,Male,35,20.3125,Above grade 12,Never married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+230,Female,29,21.227888,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+447,Female,33,19.909973,Grade 1-8,Married,Rural,No,No,No,No,2,Negative,No,,Live
+82,Female,35,14.860539,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+172,Female,23,21.077196,Grade 8-12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+244,Male,27,23.233456,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+169,Male,26,17.998163,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+109,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+629,Female,39,24.034611,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+80,Male,29,17.156261,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+110,Female,35,18.365473,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+91,Male,28,15.604587,Above grade 12,Married,Urban,Yes,No,No,No,1,Negative,No,,Live
+344,Female,38,15.67347,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+530,Female,22,16.227839,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+255,Male,57,21.258503,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+423,Male,28,15.346939,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+484,Male,30,17.258383,Grade 1-8,Married,Urban,Yes,Yes,No,Yes,1,Negative,No,,Live
+303,Male,40,26.703623,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+83,Female,19,18.974531,Grade 8-12,Never married,Urban,No,No,No,No,1,Negative,No,,Live
+2,Female,33,17.03923,Grade 8-12,Married,Urban,No,No,Yes,No,2,Positive,Yes,300,Live
+50,Female,30,12.855831,Grade 8-12,Never married,Rural,Yes,No,No,No,1,Negative,No,,Live
+212,Female,23,18.75,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+126,Male,25,12.855831,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+560,Female,30,20.504934,Grade 8-12,Married,Urban,Yes,No,Yes,Yes,1,Positive,Yes,305,Live
+559,Female,23,14.586104,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+70,Male,18,11.869978,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,,Live
+531,Male,25,14.515895,Above grade 12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,450,Live
+245,Male,32,15.241579,Grade 1-8,Married,Rural,Yes,Yes,No,No,2,Negative,No,,Live
+182,Male,38,23.011177,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+430,Male,23,16.262976,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+6,Male,70,17.040329,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+9,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+256,Male,39,19.379198,Above grade 12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+497,Male,42,20.281233,Above grade 12,"Other (divorced, widowed)",Urban,Yes,No,No,Yes,1,Negative,No,,Live
+177,Male,17,17.099277,Grade 8-12,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+495,Female,22,16.974653,Grade 1-8,Married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+107,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+334,Male,19,18.359375,Grade 1-8,Never married,Rural,Yes,No,No,No,2,Negative,No,,Live
+301,Male,31,15.055495,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+37,Male,27,13.427203,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+96,Male,75,19.003908,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+428,Female,18,20.3125,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+330,Male,80,17.283951,Grade 1-8,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+608,Female,42,16.073322,Grade 1-8,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+463,Female,35,17.995241,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+480,Male,38,23.148148,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+532,Male,28,15.346939,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+490,Male,29,21.138855,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+331,Female,22,13.560158,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+263,Male,28,15.591466,Grade 8-12,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+269,Female,25,21.367521,Grade 8-12,Never married,Urban,Yes,No,No,Yes,2,Negative,No,,Live
+521,Female,50,18.279421,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,No,No,2,Negative,No,,Live
+337,Male,30,17.258383,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+279,Female,23,11.428572,Above grade 12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+610,Male,37,11.832623,Grade 1-8,Never married,Urban,No,No,No,No,2,Negative,No,,Live
+291,Male,28,18.870663,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+405,Male,32,15.241579,Grade 1-8,Married,Rural,Yes,Yes,No,No,2,Negative,No,,Live
+481,Male,19,18.359375,Grade 1-8,Never married,Rural,Yes,Yes,No,No,2,Negative,No,,Live
+578,Female,24,16.02564,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+22,Female,30,16.955017,Grade 8-12,Never married,Urban,Yes,No,Yes,No,2,Positive,Yes,303,Live
+400,Male,23,15.605006,Grade 1-8,Never married,Urban,Yes,No,No,No,2,Negative,No,,Live
+465,Male,31,17.632652,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+149,Male,19,16.32653,Above grade 12,Married,Rural,Yes,No,No,No,2,Negative,No,,Live
+30,Female,18,13.756693,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+292,Female,62,23.661438,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+228,Male,46,21.453573,Grade 1-8,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,145,Live
+550,Female,46,35.055634,Grade 8-12,Never married,Urban,No,Yes,No,No,2,Negative,No,,Live
+90,Female,30,17.514631,Above grade 12,Married,Urban,Yes,No,Yes,No,2,Positive,Yes,530,Live
+546,Female,27,17.102915,Above grade 12,"Other (divorced, widowed)",Urban,No,No,No,No,2,Negative,No,,Live
+219,Male,39,15.967484,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+540,Female,30,15.555555,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+482,Female,38,13.669956,Grade 1-8,Married,Urban,No,No,No,No,2,Negative,No,,Live
+49,Female,24,18.178671,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+232,Female,26,18.778345,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+483,Male,38,14.527376,Grade 1-8,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+252,Female,42,16.073322,Grade 1-8,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Live
+200,Female,34,18.73049,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,No,No,No,2,Negative,No,,Live
+266,Male,44,16.049383,Grade 1-8,Never married,Urban,Yes,No,No,Yes,2,Positive,Yes,250,Live
+613,Male,55,16.757294,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+48,Female,30,20.504934,Grade 8-12,Married,Urban,Yes,No,Yes,Yes,1,Positive,Yes,305,Live
+587,Female,30,21.048048,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+539,Male,23,16.262976,Above grade 12,Married,Urban,No,No,No,No,2,Negative,No,,Live
+38,Female,46,35.055634,Grade 8-12,Never married,Urban,No,Yes,No,No,2,Negative,No,,Live
+187,Male,23,18.442545,Grade 8-12,Married,Urban,Yes,No,No,No,2,Negative,No,,Live
+512,Male,72,15.822159,Grade 8-12,"Other (divorced, widowed)",Urban,No,Yes,No,Yes,2,Negative,No,,Died
+375,Female,64,13.888353,Grade 1-8,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,No,2,Negative,No,,Died
+504,Male,52,19.84127,Above grade 12,Married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,70,Died
+362,Male,41,14.09846,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,56,Died
+390,Female,26,18.442545,Above grade 12,Married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,36,Died
+379,Female,67,12.818459,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,2,Negative,No,,Died
+501,Male,50,14.705367,Above grade 12,Married,Rural,No,Yes,Yes,Yes,2,Negative,No,,Died
+369,Male,37,14.693877,Above grade 12,Never married,Urban,Yes,Yes,No,Yes,1,Positive,Yes,258,Died
+515,Male,40,20.703125,Grade 1-8,Never married,Urban,No,Yes,Yes,No,2,Positive,Yes,50,Died
+305,Male,45,18.685122,Grade 8-12,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,140,Died
+506,Female,32,17.360441,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,2,Negative,No,,Died
+570,Male,29,18.365473,Above grade 12,Married,Urban,No,Yes,Yes,Yes,1,Positive,Yes,208,Died
+572,Male,30,16.37208,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,300,Died
+575,Female,22,12.855831,Above grade 12,Never married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+315,Male,53,14.342572,Above grade 12,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,1,Positive,Yes,53,Died
+310,Male,38,16.51473,Above grade 12,Married,Rural,Yes,No,Yes,Yes,1,Positive,Yes,200,Died
+517,Female,34,16.262976,Above grade 12,Married,Urban,Yes,Yes,No,Yes,2,Negative,No,,Died
+386,Female,27,13.844389,Grade 8-12,Married,Urban,Yes,No,Yes,Yes,2,Positive,Yes,80,Died
+505,Male,35,17.708576,Above grade 12,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,1,Positive,Yes,177,Died
+507,Female,30,14.605055,Above grade 12,Married,Urban,No,Yes,No,Yes,2,Negative,No,,Died
+123,Male,57,23.011177,Grade 8-12,Married,Urban,Yes,Yes,No,Yes,2,Negative,No,,Died
+373,Male,54,17.110022,Grade 8-12,Married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,150,Died
+396,Female,80,15.400624,Above grade 12,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,150,Died
+313,Female,24,16.649324,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,1,Positive,Yes,60,Died
+308,Female,24,15.426605,Grade 8-12,Never married,Urban,No,Yes,No,Yes,1,Negative,No,,Died
+377,Female,33,13.671875,Grade 1-8,Married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,99,Died
+395,Male,22,13.654984,Above grade 12,Never married,Urban,No,Yes,Yes,Yes,2,Positive,No,4,Died
+500,Male,54,11.046585,Grade 1-8,Never married,Rural,Yes,Yes,Yes,No,2,Negative,No,,Died
+356,Male,33,18.194006,Grade 1-8,Never married,Urban,No,Yes,Yes,Yes,2,Negative,No,,Died
+376,Female,30,12.54975,Above grade 12,Married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+503,Female,41,19.713322,Above grade 12,"Other (divorced, widowed)",Rural,Yes,Yes,Yes,Yes,2,Negative,No,,Died
+502,Female,39,19.312952,Above grade 12,Married,Rural,No,Yes,Yes,Yes,2,Negative,No,,Died
+307,Male,50,15.755751,Grade 1-8,Married,Rural,No,No,Yes,No,2,Negative,No,,Died
+314,Male,30,14.202752,Above grade 12,Never married,Urban,No,Yes,Yes,No,1,Positive,Yes,124,Died
+398,Male,27,15.67347,Grade 1-8,Never married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,101,Died
+509,Female,37,14.381986,Grade 1-8,Never married,Rural,Yes,Yes,Yes,Yes,2,Positive,Yes,186,Died
+360,Female,35,20.79673,Above grade 12,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,11,Died
+378,Female,40,14.342572,Grade 8-12,Never married,Urban,No,Yes,Yes,No,2,Positive,Yes,61,Died
+312,Female,35,13.149244,Above grade 12,Married,Urban,Yes,No,No,No,2,Negative,No,,Died
+363,Male,38,17.527817,Grade 8-12,Married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,146,Died
+354,Female,50,16.51473,Above grade 12,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,46,Died
+306,Female,30,15.062326,Grade 1-8,Never married,Rural,No,Yes,Yes,No,2,Positive,Yes,56,Died
+568,Male,18,17.96875,Grade 8-12,"Other (divorced, widowed)",Urban,Yes,Yes,No,Yes,1,Negative,No,,Died
+498,Female,20,14.342572,Above grade 12,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Died
+573,Male,38,14.878893,Grade 8-12,Married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+385,Male,26,15.210925,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,51,Died
+370,Female,58,14.302382,Above grade 12,Married,Urban,Yes,Yes,No,No,2,Negative,No,,Died
+317,Male,25,14.172336,Above grade 12,Married,Rural,No,Yes,No,No,2,Negative,No,,Died
+383,Male,51,12.400794,Above grade 12,Never married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,27,Died
+387,Male,60,14.692378,Grade 1-8,Married,Urban,Yes,No,No,No,2,Negative,No,,Died
+374,Male,30,15.24169,Above grade 12,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,2,Positive,Yes,41,Died
+394,Female,15,13.692601,Grade 8-12,Never married,Urban,No,No,Yes,Yes,2,Positive,Yes,98,Died
+499,Female,58,15.426997,Grade 1-8,Married,Rural,Yes,Yes,Yes,No,2,Negative,No,,Died
+353,Female,18,14.951514,Grade 8-12,Never married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,25,Died
+361,Male,25,11.969495,Above grade 12,Never married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,125,Died
+364,Male,45,14.172336,Grade 1-8,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,100,Died
+392,Female,35,15.047365,Grade 1-8,Married,Urban,Yes,No,Yes,Yes,2,Positive,Yes,102,Died
+365,Male,39,15.234375,Grade 1-8,"Other (divorced, widowed)",Urban,Yes,Yes,Yes,Yes,1,Positive,Yes,74,Died
+397,Male,45,14.363394,Above grade 12,"Other (divorced, widowed)",Rural,Yes,No,Yes,Yes,2,Positive,Yes,92,Died
+511,Female,28,16.227839,Grade 1-8,Married,Urban,No,Yes,No,Yes,2,Negative,No,,Died
+380,Male,31,19.151192,Above grade 12,Never married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+381,Male,40,14.705367,Above grade 12,"Other (divorced, widowed)",Urban,No,Yes,Yes,No,2,Positive,Yes,14,Died
+309,Male,40,21.410946,Grade 8-12,Married,Urban,No,Yes,No,Yes,1,Negative,No,,Died
+389,Female,29,12.995452,Grade 8-12,Never married,Urban,Yes,No,No,No,2,Negative,No,,Died
+576,Female,40,14.342572,Grade 8-12,Never married,Urban,No,Yes,Yes,No,2,Positive,Yes,61,Died
+304,Female,45,15.508307,Grade 8-12,Married,Rural,No,Yes,No,Yes,1,Negative,No,,Died
+358,Male,40,11.428572,Grade 8-12,Never married,Urban,Yes,No,Yes,No,2,Negative,No,,Died
+367,Male,40,16.224987,Grade 1-8,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,145,Died
+372,Male,85,12.400794,Above grade 12,Married,Urban,No,Yes,Yes,Yes,2,Negative,No,,Died
+508,Male,40,19.377163,Grade 8-12,Married,Rural,Yes,Yes,Yes,No,2,Negative,No,,Died
+355,Male,35,12.400794,Grade 1-8,Never married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,56,Died
+357,Female,55,12.855831,Above grade 12,Married,Urban,No,No,Yes,No,2,Negative,No,,Died
+567,Male,35,23.725286,Grade 8-12,Married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,151,Died
+316,Male,17,12.400794,Grade 1-8,Never married,Urban,Yes,Yes,Yes,Yes,2,Positive,Yes,64,Died
+574,Female,33,12.890625,Grade 8-12,Married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+366,Male,40,13.061225,Grade 8-12,Never married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,104,Died
+359,Male,32,16.023073,Grade 1-8,Never married,Rural,Yes,Yes,Yes,No,2,Positive,Yes,100,Died
+391,Male,40,13.984008,Grade 1-8,Never married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,48,Died
+388,Male,44,11.694344,Grade 1-8,Never married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,9,Died
+514,Male,60,14.500298,Grade 1-8,Married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+295,Male,25,12.254473,Above grade 12,Married,Urban,No,No,Yes,Yes,1,Positive,Yes,105,Died
+368,Male,35,14.302382,Above grade 12,Never married,Urban,No,No,Yes,Yes,2,Positive,Yes,82,Died
+351,Female,40,13.319459,Above grade 12,Never married,Urban,No,Yes,Yes,No,2,Positive,Yes,120,Died
+513,Male,78,13.840831,Grade 1-8,Married,Urban,No,Yes,No,Yes,2,Negative,No,,Died
+352,Male,25,12.456747,Above grade 12,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,35,Died
+311,Male,34,15.794307,Grade 1-8,Married,Rural,No,Yes,Yes,No,2,Positive,Yes,70,Died
+571,Male,23,13.364964,Above grade 12,Married,Urban,No,Yes,Yes,Yes,2,Positive,Yes,100,Died
+569,Male,64,19.834711,Grade 8-12,"Other (divorced, widowed)",Urban,No,Yes,Yes,No,2,Negative,No,,Died
+516,Male,57,16.608997,Grade 8-12,Never married,Urban,Yes,Yes,No,Yes,2,Negative,No,,Died
+393,Male,30,11.360219,Grade 1-8,Never married,Urban,Yes,Yes,Yes,No,2,Positive,Yes,64,Died
+371,Female,20,12.908315,Above grade 12,Never married,Urban,No,Yes,Yes,No,2,Negative,No,,Died
+510,Male,48,15.959654,Above grade 12,"Other (divorced, widowed)",Urban,No,Yes,Yes,Yes,2,Positive,Yes,100,Died
+384,Male,67,14.172336,Grade 8-12,Married,Urban,No,Yes,Yes,No,2,Positive,Yes,85,Died
