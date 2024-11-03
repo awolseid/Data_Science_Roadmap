@@ -34,5 +34,5 @@
         - Training and Testing Models, 
         - Making Predictions, 
         - Saving and Loading Models
-    - Devise-Agnostic Codes, Going Modular 
+    - Device-Agnostic Codes, Going Modular 
 4. End-to-End Project: Problem Definition, Model Development and Deployment
